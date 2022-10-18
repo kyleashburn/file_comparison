@@ -1,2 +1,2 @@
 # file_comparison
-Little file comparison project
+This is a little file comparison project I did. I was working with the DDOsecrets Parler data set of posts when I realized it seemed like their files were carbon copies of each other. Thus, I decided I should go ahead and check each of those in turn. I thought I should share my code here in case anyone else runs into a similar problem ever and wants my solution. Sadly, it's very i/o heavy and so it runs incredibly slowly. It's only single core optimized right now, but I'm considering running through some optimization down the line. 
